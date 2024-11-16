@@ -14,8 +14,7 @@ Para finalzar el modulo 1 realice esta pagina web con el fin de aplicar todos lo
 
   ##Codigo
 
+  Para este proyecto hice una Pagina web sobre la formula 1, la estructura del codigo se realizo lo mas ordenado posible usando estuctura semantica, colocando tutulos, subtitulos, parrafos, secciones, comentarios, asi como listas, etc.
+  Me parecio muy util todo lo aprnedido en clase y muy satisfecho de poder aplicar todo lo aprendido 
 
-  A continuacion se muestra el codigo de la pagina que realice para esta tarea
-
-  ![ Viata Previa](https://i.postimg.cc/zfXcyXWw/Captura-de-pantalla-2024-11-14-000407.jpg) 
-  
+  ![ Viata Previa](https://i.postimg.cc/g2m92tSt/proyecto-final.jpg)
