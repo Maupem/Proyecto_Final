@@ -1,4 +1,4 @@
-# EProyecto Final
+# Proyecto Final
 
 Para finalzar el modulo 1 realice esta pagina web con el fin de aplicar todos los conociemintos adquiridos durante las clases estas ultimas semanas
 
